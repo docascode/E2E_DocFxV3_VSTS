@@ -22,6 +22,7 @@
   "branches_to_filter": [],
   "skip_source_output_uploading": false,
   "need_preview_pull_request": false,
+  "resolve_user_profile_using_github": true,
   "git_repository_url_open_to_public_contributors": "https://github.com/docascode/E2E_DocFxV3_VSTS",
   "git_repository_branch_open_to_public_contributors": "contribution-test",
   "contribution_branch_mappings": {},
